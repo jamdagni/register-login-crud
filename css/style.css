@@ -1,0 +1,35 @@
+
+body{
+  background-color:white;
+}
+.container{
+  margin-top: 10vw;
+  background: #fb8c0078;
+  padding: 2vw;
+  border-radius: 56px;
+}
+
+.ta{
+  text-align:center;
+  color: white;
+  font-size: 5ch;
+}
+
+.sb{
+  text-align:center;
+}
+
+.btn{
+  background-color: #ff5722c2;
+  color: white;
+}
+
+.btn:hover{
+  background-color: #d04545;
+}
+
+.btn:active{
+  background-color: rgba(156,39,176,.51);
+}
+
+/*************************Login page**************************/
